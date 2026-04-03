@@ -1,11 +1,9 @@
-# spacial_data_science
-Este repositorio contiene código que forma parte del taller de RStudio con Enfoque Espacial del seminario interinstitucional: Instituciones de seguridad y justicia del Instituto Mora, CIDE, IIS - UNAM y el Colegio Mexiquense.
-
 # Ciencia de Datos Espaciales Aplicada al Sector Público
+Este repositorio contiene código que forma parte del taller de RStudio con Enfoque Espacial del seminario interinstitucional: Instituciones de seguridad y justicia del Instituto Mora, CIDE, IIS - UNAM y el Colegio Mexiquense.
 
 ---
 
-## 👨‍🏫 Agradecimientos Especiales
+##  Agradecimientos Especiales
 Un agradecimiento profundo al **Mtro. Noé Osorio García**, instructor de este taller, por compartir su metodología y experiencia en el uso de herramientas aplicadas al análisis geográfico para las políticas públicas. Su guía fue fundamental para el desarrollo de cada una de las fases presentadas en este repositorio.
 
 ---
@@ -15,7 +13,7 @@ Un agradecimiento profundo al **Mtro. Noé Osorio García**, instructor de este 
 El taller lo dividí en tres etapas:
 
 ### [Parte 1: Cartografía e Incidencia Delictiva](https://connect.posit.cloud/romerostats/content/019d5020-dcc1-6298-8851-14a0b5586fea)
-* **Enfoque:** Procesamiento de datos abiertos de la FGJ CDMX.
+* **Enfoque:** Procesamiento de datos abiertos de la FGJ CDMX y de la base de datos OCVED 2.0.
 * **Técnicas:** Limpieza con `tidyverse`, visualización de puntos simples y agrupación dinámica mediante clústeres.
 * **Producto:** Mapa interactivo de delitos patrimoniales 2024 y de presencia de grupos armados en territorio mexicano.
 
@@ -26,12 +24,12 @@ El taller lo dividí en tres etapas:
 
 ### [Parte 3: Accesibilidad, Brechas Sociales e Inteligencia Artificial](https://connect.posit.cloud/romerostats/content/019d4739-bb16-891e-d299-0e622342683c)
 * **Enfoque:** Geoestadística avanzada y Modelos de Lenguaje LLMs.
-* **Técnicas:** Ruteo peatonal con **OSRM**, Isocronas de tiempo, extracción de datos estructurados con **Gemini AI** y Autocorrelación Espacial (**LISA - Índice de Moran**).
+* **Técnicas:** Ruteo peatonal con **OSRM**, Isocronas de tiempo, Isodistancias, extracción de datos estructurados con **Gemini AI** y Autocorrelación Espacial (**LISA - Índice de Moran**).
 * **Producto:** Evaluación de accesibilidad a servicios de salud y detección de clústeres de vulnerabilidad.
 
 ---
 
-## Crédito
+## Créditos
 El conjunto de datos especializados utilizados en este tallerse fundamentan en el trabajo de:
 
 * **Dr. Javier Osorio** (University of Arizona)
@@ -46,6 +44,6 @@ El conjunto de datos especializados utilizados en este tallerse fundamentan en e
 Si tienes dudas sobre el código o quieres colaborar en proyectos de Ciencia de Datos y Seguridad, puedes contactarme a través de:
 
 * **GitHub:** [RomeroStats](https://github.com/RomeroStats)
-* **LinkedIn:** [Tu-Perfil-Aquí]
+* **LinkedIn:** [https://www.linkedin.com/in/c%C3%A9sar-romero-ba09b3163/]
 
 ---
