@@ -3,8 +3,8 @@ Este repositorio contiene código que forma parte del taller de RStudio con Enfo
 
 ---
 
-##  Agradecimientos Especiales
-Un agradecimiento profundo al **Mtro. Noé Osorio García**, instructor de este taller, por compartir su metodología y experiencia en el uso de herramientas aplicadas al análisis geográfico para las políticas públicas. Su guía fue fundamental para el desarrollo de cada una de las fases presentadas en este repositorio.
+##  Agradecimientos
+Expreso un agradecimiento profundo al **Mtro. Noé Osorio García**, instructor de este taller, por compartir su metodología y experiencia en el uso de herramientas aplicadas al análisis geográfico para las políticas públicas. Su guía fue fundamental para el desarrollo de cada una de las fases presentadas en este repositorio.
 
 ---
 
