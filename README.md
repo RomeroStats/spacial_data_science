@@ -8,9 +8,17 @@ Expreso un agradecimiento profundo al **Mtro. Noé Osorio García**, instructor 
 
 ---
 
+## Archivos y Bases de Datos
+Para facilitar la replicabilidad de los análisis, en este repositorio podrás encontrar:
+* **Código Fuente:** Subí los archivos de script en formato `.R` correspondientes a la Parte 1, Parte 2 y Parte 3 para su consulta directa y ejecución.
+* **Datos:** Se han agregado algunas de las bases de datos necesarias para correr los ejercicios prácticos.
+* *Nota sobre OCVED:* La base de datos *Organized Crime Violence in Mexico* (OCVED 2.0) no está alojada en estas carpetas, pero la puedes consultar y descargar a través de su enlace oficial en la sección de Créditos.
+
+---
+
 ## Estructura del Proyecto
 
-El taller lo dividí en tres etapas:
+El taller lo dividí en tres partes:
 
 ### [Parte 1: Cartografía e Incidencia Delictiva](https://019d5020-dcc1-6298-8851-14a0b5586fea.share.connect.posit.cloud/)
 * **Enfoque:** Procesamiento de datos abiertos de la FGJ CDMX y de la base de datos OCVED 2.0.
@@ -30,7 +38,7 @@ El taller lo dividí en tres etapas:
 ---
 
 ## Créditos
-El conjunto de datos especializados utilizados en este tallerse fundamentan en el trabajo de:
+El conjunto de datos especializados OCVED 2.o utilizados en la parte 1 de este taller se fundamentan en el trabajo de:
 
 * **Dr. Javier Osorio** (University of Arizona)
 * **Proyecto:** *Organized Crime Violence in Mexico* (OCVED 2.0).
