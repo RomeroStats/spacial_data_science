@@ -53,5 +53,6 @@ Si tienes dudas sobre el código o quieres colaborar en proyectos de Ciencia de 
 
 * **GitHub:** [RomeroStats](https://github.com/RomeroStats)
 * **LinkedIn:** [César Romero](https://www.linkedin.com/in/c%C3%A9sar-romero-ba09b3163/)
+* **cesar_romero@politicas.unam.mx**
 
 ---
