@@ -52,6 +52,6 @@ El conjunto de datos especializados OCVED 2.0 utilizados en la parte 1 de este t
 Si tienes dudas sobre el código o quieres colaborar en proyectos de Ciencia de Datos y Seguridad, puedes contactarme a través de:
 
 * **GitHub:** [RomeroStats](https://github.com/RomeroStats)
-* **LinkedIn:** [https://www.linkedin.com/in/c%C3%A9sar-romero-ba09b3163/]
+* **LinkedIn:** [César Romero](https://www.linkedin.com/in/c%C3%A9sar-romero-ba09b3163/)
 
 ---
