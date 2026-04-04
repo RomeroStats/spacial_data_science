@@ -12,17 +12,17 @@ Expreso un agradecimiento profundo al **Mtro. Noé Osorio García**, instructor 
 
 El taller lo dividí en tres etapas:
 
-### [Parte 1: Cartografía e Incidencia Delictiva](https://connect.posit.cloud/romerostats/content/019d5020-dcc1-6298-8851-14a0b5586fea)
+### [Parte 1: Cartografía e Incidencia Delictiva](https://019d5020-dcc1-6298-8851-14a0b5586fea.share.connect.posit.cloud/)
 * **Enfoque:** Procesamiento de datos abiertos de la FGJ CDMX y de la base de datos OCVED 2.0.
 * **Técnicas:** Limpieza con `tidyverse`, visualización de puntos simples y agrupación dinámica mediante clústeres.
 * **Producto:** Mapa interactivo de delitos patrimoniales 2024 y de presencia de grupos armados en territorio mexicano.
 
-### [Parte 2: Seguridad, Justicia y Negocios](https://connect.posit.cloud/romerostats/content/019d4736-3ddf-959e-853a-fad1ca68134f)
+### [Parte 2: Seguridad, Justicia y Negocios](https://019d4736-3ddf-959e-853a-fad1ca68134f.share.connect.posit.cloud/)
 * **Enfoque:** Detección de focos rojos y entorno económico.
 * **Técnicas:** Mapas de calor, capas satelitales (`Esri.WorldImagery`) y conexión en tiempo real con la **API DENUE de INEGI**.
 * **Producto:** Análisis multicapa de riesgos y establecimientos comerciales.
 
-### [Parte 3: Accesibilidad, Brechas Sociales e Inteligencia Artificial](https://connect.posit.cloud/romerostats/content/019d4739-bb16-891e-d299-0e622342683c)
+### [Parte 3: Accesibilidad, Brechas Sociales e Inteligencia Artificial](https://019d4739-bb16-891e-d299-0e622342683c.share.connect.posit.cloud/)
 * **Enfoque:** Geoestadística avanzada y Modelos de Lenguaje LLMs.
 * **Técnicas:** Ruteo peatonal con **OSRM**, Isocronas de tiempo, Isodistancias, extracción de datos estructurados con **Gemini AI** y Autocorrelación Espacial (**LISA - Índice de Moran**).
 * **Producto:** Evaluación de accesibilidad a servicios de salud y detección de clústeres de vulnerabilidad.
@@ -39,7 +39,7 @@ El conjunto de datos especializados utilizados en este tallerse fundamentan en e
 ---
 
 ## Autor
-**Mtro. José César Romero Galván** *Data Scientist & Public Policy Researcher*
+**Mtro. José César Romero Galván** *Científico de Datos y Especialista en Política Pública*
 
 Si tienes dudas sobre el código o quieres colaborar en proyectos de Ciencia de Datos y Seguridad, puedes contactarme a través de:
 
