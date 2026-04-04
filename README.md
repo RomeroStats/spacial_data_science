@@ -40,7 +40,7 @@ El taller lo dividí en tres partes:
 ## Créditos
 El conjunto de datos especializados OCVED 2.0 utilizados en la parte 1 de este taller se fundamentan en el trabajo de:
 
-* **Dr. Javier Osorio** (University of Arizona)
+* **Dr. Javier Osorio**
 * **Proyecto:** *Organized Crime Violence in Mexico* (OCVED 2.0).
 * [Repositorio Oficial OCVED](https://github.com/javierosorio/OCVED_2.0)
 
